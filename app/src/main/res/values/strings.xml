@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Beers</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_list_products2">Products List Activity 2</string>
+    <string name="title_activity_list_store_products">ListStoreProductsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="item_product_name">TextView</string>
+    <string name="item_product_price">TextView</string>
+    <string name="item_product_store_name">TextView</string>
+    <string name="item_product_logo_description">Product Logo</string>
+    <string name="item_store_name">TextView</string>
+    <string name="item_store_id">TextView</string>
+    <string name="item_store_logo_description">Store Logo</string>
+    <string name="place_price_here">Place Price here</string>
+    <string name="place_de_name_here">Place de Name here</string>
+    <string name="new_product">New Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="products">PRODUCTS</string>
+    <string name="stores">STORES</string>
+    <string name="product_store">Product/Store</string>
+    <string name="information">Info</string>
+    <string name="information_result">You have %1$d STORES and %2$d PRODUCTS</string>
+    <string name="beer">Beer:</string>
+    <string name="noTagline">No Tagline yet</string>
+    <string name="image">image</string>
+    <string name="no_description">No Description</string>
+    <string name="noBeerNameYet">No beer yet</string>
+    <string name="beers">Beers</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#78A2C4</color>
+    <color name="colorPrimaryDark">#C3C4A9</color>
+    <color name="colorAccent">#783937</color>
+    <color name="colorFood">#C45451</color>
+    <color name="colorStore">#C1C464</color>
+
+    <color name="colorText1">#808080</color>
+    <color name="colorText2">#707070</color>
+    <color name="colorDelete">#ED5E68</color>
+
+</resources>

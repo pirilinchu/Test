@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cervezas</string>
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="hello_first_fragment">Hola primer Fragmento</string>
+    <string name="hello_second_fragment">Hola segundo Fragmento</string>
+    <string name="title_activity_list_products2">Lista de Productos2</string>
+    <string name="title_activity_list_store_products">Lista Tiendas/Productos</string>
+    <string name="navigation_drawer_open">Abrir navegacion</string>
+    <string name="navigation_drawer_close">Cerrar navegacion</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">CorreoX</string>
+    <string name="nav_header_desc">Cabecera de navegacion</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="menu_home">Casa</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Mostrar Presentaciones</string>
+    <string name="item_product_name">TextView</string>
+    <string name="item_product_price">TextView</string>
+    <string name="item_product_store_name">TextView</string>
+    <string name="item_product_logo_description">Logo de Producto</string>
+    <string name="item_store_name">TextView</string>
+    <string name="item_store_id">TextView</string>
+    <string name="item_store_logo_description">Logo de Tienda</string>
+    <string name="place_price_here">Introduce el precio aca</string>
+    <string name="place_de_name_here">Introduce el nombre aca</string>
+    <string name="new_product">Nuevo Producto</string>
+    <string name="edit_product">Edicion de Producto</string>
+    <string name="products">PRODUCTOS</string>
+    <string name="stores">TIENDAS</string>
+    <string name="product_store">Productos/Tienda</string>
+    <string name="information">Info</string>
+    <string name="information_result">Tienes %1$d TIENDAS y %2$d PRODUCTOS</string>
+    <string name="beer">Cerveza:</string>
+    <string name="noTagline">No Tagline yet</string>
+    <string name="image">Imagen</string>
+    <string name="no_description">No descripcion</string>
+    <string name="noBeerNameYet">No cerveza</string>
+    <string name="beers">Cervezas</string>
+</resources>
